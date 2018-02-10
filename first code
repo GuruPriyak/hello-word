@@ -1,0 +1,7 @@
+#include<stdio.h>
+#include<stdlib.h>
+int main()
+{    /* c code to shutdown a system(windows 7)*/
+   system("C:\\WINDOWS\\System32\\shutdown /s");
+   return 0;
+}
